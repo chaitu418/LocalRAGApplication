@@ -552,26 +552,6 @@ Generate answer
 
 Load all PDFs from folder.
 
----
-
-## Add UI
-
-Use:
-- Streamlit
-- React
-- Next.js
-
----
-
-## Add Authentication
-
-JWT auth for APIs.
-
----
-
-## Add Better Prompting
-
-Use system prompts.
 
 ---
 
@@ -610,20 +590,3 @@ Answer
 - PyPDF
 
 ---
-
-# What You Built
-
-A complete local AI RAG backend capable of:
-
-- chatting with PDFs
-- semantic retrieval
-- local LLM inference
-- REST API serving
-- vector search
-
-This is foundational architecture for:
-- enterprise AI assistants
-- AI agents
-- document chatbots
-- autonomous QA systems
-- internal knowledge systems
